@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/LOGO_CNE.png</file>
+        <file>Recursos/descarga (1).jpg</file>
+        <file>Recursos/Imagenlista5.png</file>
+        <file>Recursos/creo.png</file>
+        <file>Recursos/lasso.jpg</file>
+        <file>Recursos/arrauz.jpg</file>
+        <file>Recursos/admin.png</file>
+        <file>Recursos/hogar.png</file>
+        <file>Recursos/salvar.png</file>
+        <file>Recursos/algoritmo.png</file>
+        <file>Recursos/salida.png</file>
+        <file>Recursos/logo-ups-home.png</file>
+        <file>Recursos/beneficios.png</file>
+    </qresource>
+</RCC>
